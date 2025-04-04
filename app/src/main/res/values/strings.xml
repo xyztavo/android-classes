@@ -5,4 +5,9 @@
     <string name="deletar">Deletar</string>
     <string name="pesquisar">Pesquisar</string>
     <string name="sair">Sair</string>
+    <string name="compartilhar">Compartilhar</string>
+    <string name="conversar">Conversar</string>
+    <string name="favoritar">Favoritar</string>
+    <string name="status">Status</string>
+    <string name="downloads">Downloads</string>
 </resources>
